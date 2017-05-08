@@ -29,7 +29,7 @@ To run the script genderClassification.py, one must first do the following:
 
 ## Results
 
-This Convolutional Neural Network achieved an 86.5% accuracy in classifying images of male and female faces.  
+This Convolutional Neural Network achieved 86.5% accuracy in classifying images of male and female faces.  
 
 The fundamental facial composition for men and women is the same:  We both have two eyes, one nose, one mouth, etc.  The number of shared attributes leads me to believe that gender-based facial classification is a difficult task, and as such, I am happy with the accuracy achieved.  This is an excellent example of how machine learning models can learn abstract concepts that would be difficult to program from the ground up.
 
