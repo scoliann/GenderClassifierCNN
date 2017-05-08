@@ -1,3 +1,8 @@
+'''
+This file has been adopted and modified from the label_image.py base code provided on the TensorFlow for Poets tutorial on Codelabs. 
+	Link:  https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0
+'''
+
 import tensorflow as tf
 import sys
 from os import listdir

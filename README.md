@@ -41,7 +41,11 @@ During the course of this project, the following occurred to me as potential imp
     - This was tested with a dropout of 0.75.  Unfortunately, the classification accuracy performed just as well or slightly worse.
 2.  Increase the size of the training set.  500 images for each class is a relatively small size for a machine learning problem.  Perhaps adding more images before retraining would result in greater classification accuracy.
     - I tested this hypothesis with image sets five times larger and only achieved accuracies in the high 70's and low 80's.  Admittedly, my larger training sets were not as well cleaned as the initial training set.
-3.  Apply Haar Cascades to directly parse out the area of each picture containing a face.  The images in the resulting dataset will be of faces only (ie. no rest of the body, background, etc.), and retrain Inception-v3 with this cleaned dataset. 
+3.  Apply Haar Cascades to directly parse out the area of each picture containing a face.  The images in the resulting dataset will be of faces only (ie. no rest of the body, background, etc.), and retrain Inception-v3 with this cleaned dataset.
+
+## Resources
+
+In addition to Siraj Raval's aforementioned [video](https://www.youtube.com/watch?v=QfNvhPx5Px8), the [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0) tutorial on Codelabs is an extremely good resource for learning how to work with TensorFlow's Inception model.
 
 
 
