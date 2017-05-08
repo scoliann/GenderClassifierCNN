@@ -45,7 +45,7 @@ During the course of this project, the following occurred to me as potential imp
 
 ## Resources
 
-In addition to Siraj Raval's aforementioned [video](https://www.youtube.com/watch?v=QfNvhPx5Px8), the [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0) tutorial on Codelabs is an extremely good resource for learning how to work with TensorFlow's Inception model.
+In addition to Siraj Raval's aforementioned [video](https://www.youtube.com/watch?v=QfNvhPx5Px8), the [TensorFlow for Poets](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/index.html?index=..%2F..%2Findex#0) tutorial on Codelabs is an extremely good resource for learning to work with TensorFlow's Inception model.
 
 
 
