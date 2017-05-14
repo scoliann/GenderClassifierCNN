@@ -4,7 +4,6 @@ This file has been adopted and modified from the label_image.py base code provid
 '''
 
 import tensorflow as tf
-import sys
 from os import listdir
 from os.path import isfile, join
 from sklearn.metrics import accuracy_score
